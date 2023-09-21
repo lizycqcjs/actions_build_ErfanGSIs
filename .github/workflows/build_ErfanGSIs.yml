@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://wlansysupwrrdl.vivo.com.cn/upgrade/recovery/recoveryFiles/20230831133213b753e90ab132fa85bbc35d676090b97f.zip?sign=0dae3bd072e7264f7900c54ccc37cc2a&t=6527c698
+  ROM_NAME: Origin
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
